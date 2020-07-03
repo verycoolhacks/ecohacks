@@ -61,3 +61,24 @@
     font-family: "BebasNeue-Bold";
     width: 100%;
 }
+
+.agenda {
+  border-style: solid;
+  border-color: white;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 1px;
+  border-left-width: 0;
+  padding-bottom: 1%;
+  padding-top: 25px;
+  color: white;
+  z-index: 25;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right
+}
