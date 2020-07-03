@@ -51,7 +51,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     z-index: 20;
-    height: 100%;
+    min-height: 100%;
 }
 
 .subtitle {
